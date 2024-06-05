@@ -24,6 +24,9 @@ I'm a passionate developer who loves to explore new technologies and build amazi
 ![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=MisterStranger03&show_icons=true&theme=radical)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MisterStranger03&layout=compact&theme=radical)
 
+## Visitor Count 👀
+![Visitor Count](https://komarev.com/ghpvc/?username=MisterStranger03&style=flat-square&color=blue)
+
 ## Connect with Me 🌐
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/raman-sah-stranger/)
 
