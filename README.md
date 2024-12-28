@@ -5,7 +5,7 @@
 ## About Me 🚀
 I'm a passionate developer who loves to explore new technologies and build amazing projects.
 
-- 🌱 I’m currently learning **Python/JavaScript**
+- 🌱 I’m currently learning **Java**
 - 🔭 I’m working on **Portfolio** along with some **Good Projects**
 
 ## Skills 🛠
@@ -13,6 +13,8 @@ I'm a passionate developer who loves to explore new technologies and build amazi
   ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white) 
   ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black) 
   ![C++](https://img.shields.io/badge/-C++-00599C?style=flat&logo=cplusplus&logoColor=white)
+  ![C Programming Langugage](https://img.shields.io/badge/C-Programming%20Language-brightgreen)
+  ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 - **Web Development:** 
   ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white) 
   ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white) 
