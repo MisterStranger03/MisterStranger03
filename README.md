@@ -22,6 +22,8 @@ I'm a passionate developer who loves to explore new technologies and build amazi
   ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
   ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
   ![NodeJS](https://img.shields.io/badge/Node.js-339933?logo=Node.js&logoColor=white)
+  ![AngularJS](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
+  ![ReactJS](https://img.shields.io/badge/-ReactJs-61DAFB?logo=react&logoColor=white&style=for-the-badge)
   
 
 ## GitHub Stats 📊
