@@ -5,7 +5,7 @@
 ## About Me 🚀
 I'm a passionate developer who loves to explore new technologies and build amazing projects.
 
-- 🌱 I’m currently learning **Java**
+- 🌱 I’m currently learning **AngularJS**
 - 🔭 I’m working on **Portfolio** along with some **Good Projects**
 
 ## Skills 🛠
