@@ -5,7 +5,7 @@
 ## About Me 🚀
 I'm a passionate developer who loves to explore new technologies and build amazing projects.
 
-- 🌱 I’m currently learning **Angular** along with **MEAN**
+- 🌱 I’m currently learning **AI/ML** along with **DSA**
 - 🔭 I’m working on some **Good Projects**
 
 ## Skills 🛠
