@@ -1,6 +1,6 @@
 # Hi there, I'm Raman Sah 👋
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Competitive+Programming;Open+Source+Enthusiast;Web+Developer;Always+Learning+New+Technology)
+![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Competitive+Programming;Data+Science;Open+Source+Enthusiast;Web+Developer;Always+Learning+New+Technology)
 
 ## About Me 🚀
 I'm a passionate developer who loves to explore new technologies and build amazing projects.
