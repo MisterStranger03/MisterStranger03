@@ -7,9 +7,10 @@ I'm a passionate developer who loves to explore new technologies and build amazi
 
 - 🌍 I'm based in New Delhi
 - 🖥️ See my portfolio at [Developer Portfolio](http://ramansah.vercel.app)
-<!--- 🌱 I’m currently learning **AI/ML** along with **DSA** -->
-- 🔭 I’m working on some **Awesome Projects**
 - 📇 Contact me at [ramansah2004@gmail.com](mailto:ramansah2004@gmail.com)
+<!--- 🌱 I’m currently learning **AI/ML** along with **DSA** -->
+<!--- 🔭 I’m working on some **Awesome Projects**-->
+
 
 ## Skills 🛠
 - **Programming Languages:** 
